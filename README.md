@@ -1,2 +1,3 @@
-# pyevolve
-https://github.com/luisaguterres/Pyevolve.git
+# Pyevolve
+
+http://pyevolve.sourceforge.net/getstarted.html
